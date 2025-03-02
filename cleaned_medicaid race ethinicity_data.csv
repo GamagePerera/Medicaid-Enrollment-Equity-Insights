@@ -1,0 +1,217 @@
+﻿Year,Geography,Subpopulation topic,Demographic Category,Race/Ethnicity,Enrolled Individuals,Total Eligible Population,Enrollment Rate (%),Release Version
+2020,National,Age group,Adult,"American Indian and Alaska Native, non-Hispanic",653439,47168817,1.39%,TAF Release 1
+2020,National,Age group,Adult,"Asian/Pacific Islander, non-Hispanic",3258628,47168817,6.91%,TAF Release 1
+2020,National,Age group,Adult,"Black, non-Hispanic",9592152,47168817,20.34%,TAF Release 1
+2020,National,Age group,Adult,Hispanic,10955420,47168817,23.23%,TAF Release 1
+2020,National,Age group,Adult,"Multiracial, non-Hispanic",485996,47168817,1.03%,TAF Release 1
+2020,National,Age group,Adult,"White, non-Hispanic",22223182,47168817,47.11%,TAF Release 1
+2020,National,Age group,Child,"American Indian and Alaska Native, non-Hispanic",543881,40398252,1.35%,TAF Release 1
+2020,National,Age group,Child,"Asian/Pacific Islander, non-Hispanic",1710602,40398252,4.23%,TAF Release 1
+2020,National,Age group,Child,"Black, non-Hispanic",8926193,40398252,22.10%,TAF Release 1
+2020,National,Age group,Child,Hispanic,12828651,40398252,31.76%,TAF Release 1
+2020,National,Age group,Child,"Multiracial, non-Hispanic",761697,40398252,1.89%,TAF Release 1
+2020,National,Age group,Child,"White, non-Hispanic",15627227,40398252,38.68%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Comprehensive benefits,"American Indian and Alaska Native, non-Hispanic",1197938,87674197,1.37%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Comprehensive benefits,"Asian/Pacific Islander, non-Hispanic",4976451,87674197,5.68%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Comprehensive benefits,"Black, non-Hispanic",18545830,87674197,21.15%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Comprehensive benefits,Hispanic,23810469,87674197,27.16%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Comprehensive benefits,"Multiracial, non-Hispanic",1250253,87674197,1.43%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Comprehensive benefits,"White, non-Hispanic",37893257,87674197,43.22%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Limited benefits,"American Indian and Alaska Native, non-Hispanic",60297,8514817,0.71%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Limited benefits,"Asian/Pacific Islander, non-Hispanic",311044,8514817,3.65%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Limited benefits,"Black, non-Hispanic",1630505,8514817,19.15%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Limited benefits,Hispanic,3182357,8514817,37.37%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Limited benefits,"Multiracial, non-Hispanic",69802,8514817,0.82%,TAF Release 1
+2020,National,Comprehensive or limited benefits,Limited benefits,"White, non-Hispanic",3260812,8514817,38.30%,TAF Release 1
+2020,National,Eligibility category,CHIP,"American Indian and Alaska Native, non-Hispanic",70034,1197938,5.85%,TAF Release 1
+2020,National,Eligibility category,CHIP,"Asian/Pacific Islander, non-Hispanic",507476,4976451,10.20%,TAF Release 1
+2020,National,Eligibility category,CHIP,"Black, non-Hispanic",1218618,18545830,6.57%,TAF Release 1
+2020,National,Eligibility category,CHIP,Hispanic,2808204,23810469,11.79%,TAF Release 1
+2020,National,Eligibility category,CHIP,"Multiracial, non-Hispanic",132890,1250253,10.63%,TAF Release 1
+2020,National,Eligibility category,CHIP,"White, non-Hispanic",3137678,37893257,8.28%,TAF Release 1
+2020,National,Eligibility category,Disability,"American Indian and Alaska Native, non-Hispanic",94516,1197938,7.89%,TAF Release 1
+2020,National,Eligibility category,Disability,"Asian/Pacific Islander, non-Hispanic",197714,4976451,3.97%,TAF Release 1
+2020,National,Eligibility category,Disability,"Black, non-Hispanic",2391174,18545830,12.89%,TAF Release 1
+2020,National,Eligibility category,Disability,Hispanic,1364998,23810469,5.73%,TAF Release 1
+2020,National,Eligibility category,Disability,"Multiracial, non-Hispanic",98440,1250253,7.87%,TAF Release 1
+2020,National,Eligibility category,Disability,"White, non-Hispanic",4525032,37893257,11.94%,TAF Release 1
+2020,National,Eligibility category,Expansion adult,"American Indian and Alaska Native, non-Hispanic",305639,1197938,25.51%,TAF Release 1
+2020,National,Eligibility category,Expansion adult,"Asian/Pacific Islander, non-Hispanic",1575583,4976451,31.66%,TAF Release 1
+2020,National,Eligibility category,Expansion adult,"Black, non-Hispanic",3619423,18545830,19.52%,TAF Release 1
+2020,National,Eligibility category,Expansion adult,Hispanic,4786403,23810469,20.10%,TAF Release 1
+2020,National,Eligibility category,Expansion adult,"Multiracial, non-Hispanic",190821,1250253,15.26%,TAF Release 1
+2020,National,Eligibility category,Expansion adult,"White, non-Hispanic",9724849,37893257,25.66%,TAF Release 1
+2020,National,Eligibility category,Medicaid children,"American Indian and Alaska Native, non-Hispanic",477339,1197938,39.85%,TAF Release 1
+2020,National,Eligibility category,Medicaid children,"Asian/Pacific Islander, non-Hispanic",1233459,4976451,24.79%,TAF Release 1
+2020,National,Eligibility category,Medicaid children,"Black, non-Hispanic",7398580,18545830,39.89%,TAF Release 1
+2020,National,Eligibility category,Medicaid children,Hispanic,10098889,23810469,42.41%,TAF Release 1
+2020,National,Eligibility category,Medicaid children,"Multiracial, non-Hispanic",616201,1250253,49.29%,TAF Release 1
+2020,National,Eligibility category,Medicaid children,"White, non-Hispanic",12214931,37893257,32.24%,TAF Release 1
+2020,National,Eligibility category,Non-expansion adult,"American Indian and Alaska Native, non-Hispanic",172350,1197938,14.39%,TAF Release 1
+2020,National,Eligibility category,Non-expansion adult,"Asian/Pacific Islander, non-Hispanic",551893,4976451,11.09%,TAF Release 1
+2020,National,Eligibility category,Non-expansion adult,"Black, non-Hispanic",2259677,18545830,12.18%,TAF Release 1
+2020,National,Eligibility category,Non-expansion adult,Hispanic,2540188,23810469,10.67%,TAF Release 1
+2020,National,Eligibility category,Non-expansion adult,"Multiracial, non-Hispanic",134358,1250253,10.75%,TAF Release 1
+2020,National,Eligibility category,Non-expansion adult,"White, non-Hispanic",4493751,37893257,11.86%,TAF Release 1
+2020,National,Eligibility category,Older adult (65+),"American Indian and Alaska Native, non-Hispanic",55329,1197938,4.62%,TAF Release 1
+2020,National,Eligibility category,Older adult (65+),"Asian/Pacific Islander, non-Hispanic",826101,4976451,16.60%,TAF Release 1
+2020,National,Eligibility category,Older adult (65+),"Black, non-Hispanic",1056562,18545830,5.70%,TAF Release 1
+2020,National,Eligibility category,Older adult (65+),Hispanic,1654573,23810469,6.95%,TAF Release 1
+2020,National,Eligibility category,Older adult (65+),"Multiracial, non-Hispanic",41369,1250253,3.31%,TAF Release 1
+2020,National,Eligibility category,Older adult (65+),"White, non-Hispanic",2806131,37893257,7.41%,TAF Release 1
+2020,National,Eligibility category,Pregnancy,"American Indian and Alaska Native, non-Hispanic",15391,1197938,1.28%,TAF Release 1
+2020,National,Eligibility category,Pregnancy,"Asian/Pacific Islander, non-Hispanic",60364,4976451,1.21%,TAF Release 1
+2020,National,Eligibility category,Pregnancy,"Black, non-Hispanic",323602,18545830,1.74%,TAF Release 1
+2020,National,Eligibility category,Pregnancy,Hispanic,409966,23810469,1.72%,TAF Release 1
+2020,National,Eligibility category,Pregnancy,"Multiracial, non-Hispanic",26826,1250253,2.15%,TAF Release 1
+2020,National,Eligibility category,Pregnancy,"White, non-Hispanic",598018,37893257,1.58%,TAF Release 1
+2020,National,Total enrollees,Medicaid and CHIP enrollees,"American Indian and Alaska Native, non-Hispanic",1258235,96189014,1.31%,TAF Release 1
+2020,National,Total enrollees,Medicaid and CHIP enrollees,"Asian/Pacific Islander, non-Hispanic",5287494,96189014,5.50%,TAF Release 1
+2020,National,Total enrollees,Medicaid and CHIP enrollees,"Black, non-Hispanic",20176334,96189014,20.98%,TAF Release 1
+2020,National,Total enrollees,Medicaid and CHIP enrollees,Hispanic,26992826,96189014,28.06%,TAF Release 1
+2020,National,Total enrollees,Medicaid and CHIP enrollees,"Multiracial, non-Hispanic",1320056,96189014,1.37%,TAF Release 1
+2020,National,Total enrollees,Medicaid and CHIP enrollees,"White, non-Hispanic",41154069,96189014,42.78%,TAF Release 1
+2021,National,Age group,Adult,"American Indian and Alaska Native, non-Hispanic",718049,52471620,1.37%,TAF Release 1
+2021,National,Age group,Adult,"Asian/Pacific Islander, non-Hispanic",3573486,52471620,6.81%,TAF Release 1
+2021,National,Age group,Adult,"Black, non-Hispanic",10689725,52471620,20.37%,TAF Release 1
+2021,National,Age group,Adult,Hispanic,12376073,52471620,23.59%,TAF Release 1
+2021,National,Age group,Adult,"Multiracial, non-Hispanic",594655,52471620,1.13%,TAF Release 1
+2021,National,Age group,Adult,"White, non-Hispanic",24519633,52471620,46.73%,TAF Release 1
+2021,National,Age group,Child,"American Indian and Alaska Native, non-Hispanic",558097,42280377,1.32%,TAF Release 1
+2021,National,Age group,Child,"Asian/Pacific Islander, non-Hispanic",1796061,42280377,4.25%,TAF Release 1
+2021,National,Age group,Child,"Black, non-Hispanic",9332838,42280377,22.07%,TAF Release 1
+2021,National,Age group,Child,Hispanic,13318552,42280377,31.50%,TAF Release 1
+2021,National,Age group,Child,"Multiracial, non-Hispanic",889966,42280377,2.10%,TAF Release 1
+2021,National,Age group,Child,"White, non-Hispanic",16384863,42280377,38.75%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Comprehensive benefits,"American Indian and Alaska Native, non-Hispanic",1276581,94859200,1.35%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Comprehensive benefits,"Asian/Pacific Islander, non-Hispanic",5377065,94859200,5.67%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Comprehensive benefits,"Black, non-Hispanic",20048910,94859200,21.14%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Comprehensive benefits,Hispanic,25722064,94859200,27.12%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Comprehensive benefits,"Multiracial, non-Hispanic",1487723,94859200,1.57%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Comprehensive benefits,"White, non-Hispanic",40946856,94859200,43.17%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Limited benefits,"American Indian and Alaska Native, non-Hispanic",75097,8536358,0.88%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Limited benefits,"Asian/Pacific Islander, non-Hispanic",301157,8536358,3.53%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Limited benefits,"Black, non-Hispanic",1621236,8536358,18.99%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Limited benefits,Hispanic,3163802,8536358,37.06%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Limited benefits,"Multiracial, non-Hispanic",75044,8536358,0.88%,TAF Release 1
+2021,National,Comprehensive or limited benefits,Limited benefits,"White, non-Hispanic",3300023,8536358,38.66%,TAF Release 1
+2021,National,Eligibility category,CHIP,"American Indian and Alaska Native, non-Hispanic",73199,1276581,5.73%,TAF Release 1
+2021,National,Eligibility category,CHIP,"Asian/Pacific Islander, non-Hispanic",510597,5377065,9.50%,TAF Release 1
+2021,National,Eligibility category,CHIP,"Black, non-Hispanic",1266203,20048910,6.32%,TAF Release 1
+2021,National,Eligibility category,CHIP,Hispanic,2772376,25722064,10.78%,TAF Release 1
+2021,National,Eligibility category,CHIP,"Multiracial, non-Hispanic",158347,1487723,10.64%,TAF Release 1
+2021,National,Eligibility category,CHIP,"White, non-Hispanic",3510768,40946856,8.57%,TAF Release 1
+2021,National,Eligibility category,Disability,"American Indian and Alaska Native, non-Hispanic",99028,1276581,7.76%,TAF Release 1
+2021,National,Eligibility category,Disability,"Asian/Pacific Islander, non-Hispanic",202800,5377065,3.77%,TAF Release 1
+2021,National,Eligibility category,Disability,"Black, non-Hispanic",2454163,20048910,12.24%,TAF Release 1
+2021,National,Eligibility category,Disability,Hispanic,1399742,25722064,5.44%,TAF Release 1
+2021,National,Eligibility category,Disability,"Multiracial, non-Hispanic",107808,1487723,7.25%,TAF Release 1
+2021,National,Eligibility category,Disability,"White, non-Hispanic",4697014,40946856,11.47%,TAF Release 1
+2021,National,Eligibility category,Expansion adult,"American Indian and Alaska Native, non-Hispanic",346905,1276581,27.17%,TAF Release 1
+2021,National,Eligibility category,Expansion adult,"Asian/Pacific Islander, non-Hispanic",1731812,5377065,32.21%,TAF Release 1
+2021,National,Eligibility category,Expansion adult,"Black, non-Hispanic",3975480,20048910,19.83%,TAF Release 1
+2021,National,Eligibility category,Expansion adult,Hispanic,5432525,25722064,21.12%,TAF Release 1
+2021,National,Eligibility category,Expansion adult,"Multiracial, non-Hispanic",272920,1487723,18.34%,TAF Release 1
+2021,National,Eligibility category,Expansion adult,"White, non-Hispanic",10693403,40946856,26.12%,TAF Release 1
+2021,National,Eligibility category,Medicaid children,"American Indian and Alaska Native, non-Hispanic",494031,1276581,38.70%,TAF Release 1
+2021,National,Eligibility category,Medicaid children,"Asian/Pacific Islander, non-Hispanic",1342040,5377065,24.96%,TAF Release 1
+2021,National,Eligibility category,Medicaid children,"Black, non-Hispanic",7887804,20048910,39.34%,TAF Release 1
+2021,National,Eligibility category,Medicaid children,Hispanic,10850337,25722064,42.18%,TAF Release 1
+2021,National,Eligibility category,Medicaid children,"Multiracial, non-Hispanic",724380,1487723,48.69%,TAF Release 1
+2021,National,Eligibility category,Medicaid children,"White, non-Hispanic",12843971,40946856,31.37%,TAF Release 1
+2021,National,Eligibility category,Non-expansion adult,"American Indian and Alaska Native, non-Hispanic",180627,1276581,14.15%,TAF Release 1
+2021,National,Eligibility category,Non-expansion adult,"Asian/Pacific Islander, non-Hispanic",623015,5377065,11.59%,TAF Release 1
+2021,National,Eligibility category,Non-expansion adult,"Black, non-Hispanic",2644258,20048910,13.19%,TAF Release 1
+2021,National,Eligibility category,Non-expansion adult,Hispanic,2903651,25722064,11.29%,TAF Release 1
+2021,National,Eligibility category,Non-expansion adult,"Multiracial, non-Hispanic",145426,1487723,9.78%,TAF Release 1
+2021,National,Eligibility category,Non-expansion adult,"White, non-Hispanic",5128103,40946856,12.52%,TAF Release 1
+2021,National,Eligibility category,Older adult (65+),"American Indian and Alaska Native, non-Hispanic",59380,1276581,4.65%,TAF Release 1
+2021,National,Eligibility category,Older adult (65+),"Asian/Pacific Islander, non-Hispanic",868599,5377065,16.15%,TAF Release 1
+2021,National,Eligibility category,Older adult (65+),"Black, non-Hispanic",1134001,20048910,5.66%,TAF Release 1
+2021,National,Eligibility category,Older adult (65+),Hispanic,1721421,25722064,6.69%,TAF Release 1
+2021,National,Eligibility category,Older adult (65+),"Multiracial, non-Hispanic",41907,1487723,2.82%,TAF Release 1
+2021,National,Eligibility category,Older adult (65+),"White, non-Hispanic",2971152,40946856,7.26%,TAF Release 1
+2021,National,Eligibility category,Pregnancy,"American Indian and Alaska Native, non-Hispanic",15969,1276581,1.25%,TAF Release 1
+2021,National,Eligibility category,Pregnancy,"Asian/Pacific Islander, non-Hispanic",70875,5377065,1.32%,TAF Release 1
+2021,National,Eligibility category,Pregnancy,"Black, non-Hispanic",387565,20048910,1.93%,TAF Release 1
+2021,National,Eligibility category,Pregnancy,Hispanic,490851,25722064,1.91%,TAF Release 1
+2021,National,Eligibility category,Pregnancy,"Multiracial, non-Hispanic",28295,1487723,1.90%,TAF Release 1
+2021,National,Eligibility category,Pregnancy,"White, non-Hispanic",716339,40946856,1.75%,TAF Release 1
+2021,National,Total enrollees,Medicaid and CHIP enrollees,"American Indian and Alaska Native, non-Hispanic",1351678,103395558,1.31%,TAF Release 1
+2021,National,Total enrollees,Medicaid and CHIP enrollees,"Asian/Pacific Islander, non-Hispanic",5678222,103395558,5.49%,TAF Release 1
+2021,National,Total enrollees,Medicaid and CHIP enrollees,"Black, non-Hispanic",21670146,103395558,20.96%,TAF Release 1
+2021,National,Total enrollees,Medicaid and CHIP enrollees,Hispanic,28885866,103395558,27.94%,TAF Release 1
+2021,National,Total enrollees,Medicaid and CHIP enrollees,"Multiracial, non-Hispanic",1562767,103395558,1.51%,TAF Release 1
+2021,National,Total enrollees,Medicaid and CHIP enrollees,"White, non-Hispanic",44246878,103395558,42.79%,TAF Release 1
+2022,National,Age group,Adult,"American Indian and Alaska Native, non-Hispanic",771800,56961353,1.35%,TAF Release 1
+2022,National,Age group,Adult,"Asian/Pacific Islander, non-Hispanic",3876748,56961353,6.81%,TAF Release 1
+2022,National,Age group,Adult,"Black, non-Hispanic",11404999,56961353,20.02%,TAF Release 1
+2022,National,Age group,Adult,Hispanic,14147095,56961353,24.84%,TAF Release 1
+2022,National,Age group,Adult,"Multiracial, non-Hispanic",797669,56961353,1.40%,TAF Release 1
+2022,National,Age group,Adult,"White, non-Hispanic",25963043,56961353,45.58%,TAF Release 1
+2022,National,Age group,Child,"American Indian and Alaska Native, non-Hispanic",557143,43125015,1.29%,TAF Release 1
+2022,National,Age group,Child,"Asian/Pacific Islander, non-Hispanic",1860854,43125015,4.32%,TAF Release 1
+2022,National,Age group,Child,"Black, non-Hispanic",9385450,43125015,21.76%,TAF Release 1
+2022,National,Age group,Child,Hispanic,13760050,43125015,31.91%,TAF Release 1
+2022,National,Age group,Child,"Multiracial, non-Hispanic",1081144,43125015,2.51%,TAF Release 1
+2022,National,Age group,Child,"White, non-Hispanic",16480373,43125015,38.22%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Comprehensive benefits,"American Indian and Alaska Native, non-Hispanic",1329188,100142327,1.33%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Comprehensive benefits,"Asian/Pacific Islander, non-Hispanic",5741082,100142327,5.73%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Comprehensive benefits,"Black, non-Hispanic",20803608,100142327,20.77%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Comprehensive benefits,Hispanic,27921107,100142327,27.88%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Comprehensive benefits,"Multiracial, non-Hispanic",1880850,100142327,1.88%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Comprehensive benefits,"White, non-Hispanic",42466493,100142327,42.41%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Limited benefits,"American Indian and Alaska Native, non-Hispanic",60287,8729175,0.69%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Limited benefits,"Asian/Pacific Islander, non-Hispanic",322349,8729175,3.69%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Limited benefits,"Black, non-Hispanic",1635183,8729175,18.73%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Limited benefits,Hispanic,3211026,8729175,36.78%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Limited benefits,"Multiracial, non-Hispanic",81765,8729175,0.94%,TAF Release 1
+2022,National,Comprehensive or limited benefits,Limited benefits,"White, non-Hispanic",3418564,8729175,39.16%,TAF Release 1
+2022,National,Eligibility category,CHIP,"American Indian and Alaska Native, non-Hispanic",73947,1329188,5.56%,TAF Release 1
+2022,National,Eligibility category,CHIP,"Asian/Pacific Islander, non-Hispanic",516425,5741082,9.00%,TAF Release 1
+2022,National,Eligibility category,CHIP,"Black, non-Hispanic",1293074,20803608,6.22%,TAF Release 1
+2022,National,Eligibility category,CHIP,Hispanic,2713447,27921107,9.72%,TAF Release 1
+2022,National,Eligibility category,CHIP,"Multiracial, non-Hispanic",180888,1880850,9.62%,TAF Release 1
+2022,National,Eligibility category,CHIP,"White, non-Hispanic",3331826,42466493,7.85%,TAF Release 1
+2022,National,Eligibility category,Disability,"American Indian and Alaska Native, non-Hispanic",92456,1329188,6.96%,TAF Release 1
+2022,National,Eligibility category,Disability,"Asian/Pacific Islander, non-Hispanic",206604,5741082,3.60%,TAF Release 1
+2022,National,Eligibility category,Disability,"Black, non-Hispanic",2378120,20803608,11.43%,TAF Release 1
+2022,National,Eligibility category,Disability,Hispanic,1358730,27921107,4.87%,TAF Release 1
+2022,National,Eligibility category,Disability,"Multiracial, non-Hispanic",125716,1880850,6.68%,TAF Release 1
+2022,National,Eligibility category,Disability,"White, non-Hispanic",4519714,42466493,10.64%,TAF Release 1
+2022,National,Eligibility category,Expansion adult,"American Indian and Alaska Native, non-Hispanic",396968,1329188,29.87%,TAF Release 1
+2022,National,Eligibility category,Expansion adult,"Asian/Pacific Islander, non-Hispanic",1921065,5741082,33.46%,TAF Release 1
+2022,National,Eligibility category,Expansion adult,"Black, non-Hispanic",4574596,20803608,21.99%,TAF Release 1
+2022,National,Eligibility category,Expansion adult,Hispanic,6266709,27921107,22.44%,TAF Release 1
+2022,National,Eligibility category,Expansion adult,"Multiracial, non-Hispanic",412697,1880850,21.94%,TAF Release 1
+2022,National,Eligibility category,Expansion adult,"White, non-Hispanic",12199515,42466493,28.73%,TAF Release 1
+2022,National,Eligibility category,Medicaid children,"American Indian and Alaska Native, non-Hispanic",498136,1329188,37.48%,TAF Release 1
+2022,National,Eligibility category,Medicaid children,"Asian/Pacific Islander, non-Hispanic",1411943,5741082,24.59%,TAF Release 1
+2022,National,Eligibility category,Medicaid children,"Black, non-Hispanic",7940787,20803608,38.17%,TAF Release 1
+2022,National,Eligibility category,Medicaid children,Hispanic,11477331,27921107,41.11%,TAF Release 1
+2022,National,Eligibility category,Medicaid children,"Multiracial, non-Hispanic",887486,1880850,47.19%,TAF Release 1
+2022,National,Eligibility category,Medicaid children,"White, non-Hispanic",13156048,42466493,30.98%,TAF Release 1
+2022,National,Eligibility category,Non-expansion adult,"American Indian and Alaska Native, non-Hispanic",181065,1329188,13.62%,TAF Release 1
+2022,National,Eligibility category,Non-expansion adult,"Asian/Pacific Islander, non-Hispanic",635088,5741082,11.06%,TAF Release 1
+2022,National,Eligibility category,Non-expansion adult,"Black, non-Hispanic",2608822,20803608,12.54%,TAF Release 1
+2022,National,Eligibility category,Non-expansion adult,Hispanic,3431148,27921107,12.29%,TAF Release 1
+2022,National,Eligibility category,Non-expansion adult,"Multiracial, non-Hispanic",165877,1880850,8.82%,TAF Release 1
+2022,National,Eligibility category,Non-expansion adult,"White, non-Hispanic",4905239,42466493,11.55%,TAF Release 1
+2022,National,Eligibility category,Older adult (65+),"American Indian and Alaska Native, non-Hispanic",60730,1329188,4.57%,TAF Release 1
+2022,National,Eligibility category,Older adult (65+),"Asian/Pacific Islander, non-Hispanic",925259,5741082,16.12%,TAF Release 1
+2022,National,Eligibility category,Older adult (65+),"Black, non-Hispanic",1171248,20803608,5.63%,TAF Release 1
+2022,National,Eligibility category,Older adult (65+),Hispanic,1824302,27921107,6.53%,TAF Release 1
+2022,National,Eligibility category,Older adult (65+),"Multiracial, non-Hispanic",48359,1880850,2.57%,TAF Release 1
+2022,National,Eligibility category,Older adult (65+),"White, non-Hispanic",3029502,42466493,7.13%,TAF Release 1
+2022,National,Eligibility category,Pregnancy,"American Indian and Alaska Native, non-Hispanic",16849,1329188,1.27%,TAF Release 1
+2022,National,Eligibility category,Pregnancy,"Asian/Pacific Islander, non-Hispanic",82875,5741082,1.44%,TAF Release 1
+2022,National,Eligibility category,Pregnancy,"Black, non-Hispanic",462956,20803608,2.23%,TAF Release 1
+2022,National,Eligibility category,Pregnancy,Hispanic,593938,27921107,2.13%,TAF Release 1
+2022,National,Eligibility category,Pregnancy,"Multiracial, non-Hispanic",37533,1880850,2.00%,TAF Release 1
+2022,National,Eligibility category,Pregnancy,"White, non-Hispanic",812619,42466493,1.91%,TAF Release 1
+2022,National,Total enrollees,Medicaid and CHIP enrollees,"American Indian and Alaska Native, non-Hispanic",1389475,108871502,1.28%,TAF Release 1
+2022,National,Total enrollees,Medicaid and CHIP enrollees,"Asian/Pacific Islander, non-Hispanic",6063432,108871502,5.57%,TAF Release 1
+2022,National,Total enrollees,Medicaid and CHIP enrollees,"Black, non-Hispanic",22438791,108871502,20.61%,TAF Release 1
+2022,National,Total enrollees,Medicaid and CHIP enrollees,Hispanic,31132133,108871502,28.60%,TAF Release 1
+2022,National,Total enrollees,Medicaid and CHIP enrollees,"Multiracial, non-Hispanic",1962614,108871502,1.80%,TAF Release 1
+2022,National,Total enrollees,Medicaid and CHIP enrollees,"White, non-Hispanic",45885056,108871502,42.15%,TAF Release 1
