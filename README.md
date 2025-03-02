@@ -58,4 +58,4 @@ GitHub: Version control and project documentation.
 
 [**Click Here to View on Tableau Public**](https://public.tableau.com/app/profile/chami.perera/viz/MedicaidRaceEthnicityEnrollmentAnalysis/MedicaidEnrollmentInsights2020-2022)
 
-![Medicare Claims Dashboard](https://github.com/GamagePerera/Medicare-Claims-Analysis/blob/main/Image.png?raw=true)
+![Medicare Claims Dashboard](https://github.com/GamagePerera/Medicaid_Enrollment_Analysis/blob/main/Medicaid%20Enrollment%20Insights%20(2020-2022).png?raw=true)
