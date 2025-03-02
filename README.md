@@ -57,3 +57,5 @@ Excel : Data Cleaning & Preparation.
 GitHub: Version control and project documentation.
 
 [**Click Here to View on Tableau Public**](https://public.tableau.com/app/profile/chami.perera/viz/MedicaidRaceEthnicityEnrollmentAnalysis/MedicaidEnrollmentInsights2020-2022)
+
+![Medicare Claims Dashboard](https://github.com/GamagePerera/Medicare-Claims-Analysis/blob/main/Image.png?raw=true)
