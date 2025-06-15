@@ -1,4 +1,4 @@
-# Medicaid Enrollment Analysis (2020-2022)
+# Medicaid Enrollment Equity Insights
 
 Project Overview
 
